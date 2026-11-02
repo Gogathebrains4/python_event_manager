@@ -1,0 +1,11 @@
+name,venue,date,capacity,ticket_prices,tickets_sold,category,family_friendly
+Winter Gala,"City Hall, Newcastle",2026-12-05,500,standard:25.0;vip:60.0,standard:180;vip:40,music,TRUE
+Open Mic Night,The Cluny,2026-11-14,120,standard:5.0;vip:12.5,standard:75,music,FALSE
+Robotics Workshop,Urban Sciences Building,2026-10-03,60,standard:15.0,,education,TRUE
+Comedy Late Show,The Stand,2026-11-20,150,standard:18.0,standard:150,comedy,FALSE
+Invalid Capacity,The Stand,2026-11-21,abc,standard:18.0,,comedy,FALSE
+Over Capacity,The Stand,2026-11-22,10,standard:18.0,standard:11,comedy,FALSE
+Invalid Ticket Tier,The Stand,2026-11-23,100,standard:18.0,vip:5,comedy,FALSE
+Invalid Family Status,The Stand,2026-11-24,100,standard:18.0,,comedy,maybe
+Incomplete Event,The Stand,2026-11-25,,,,,
+Winter Gala,"City Hall, Newcastle",2026-12-05,500,standard:25.0;vip:60.0,standard:180;vip:40,music,TRUE
